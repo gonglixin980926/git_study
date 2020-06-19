@@ -5,3 +5,6 @@ function master(){
 function mmm(){
     console.log("--------")
 }
+
+let b = 55;
+let c = 66;
